@@ -1,6 +1,5 @@
 # BookHub - Book Library App
 
-![BookHub Logo](./images/logo.png)
 
 ## Overview
 
